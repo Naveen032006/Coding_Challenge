@@ -1,0 +1,24 @@
+class Solution {
+public:
+    void setZeroes(vector<vector<int>>& m) {
+        int n=m.size();
+        int ma=m[0].size();
+        vector<int> row(n,0);
+        vector<int> col(ma,0);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<ma;j++){
+                if(m[i][j]==0){
+                    row[i]++;
+                    col[j]++;
+                }
+            }
+        }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<ma;j++){
+                if(row[i]>0||col[j]>0){
+                    m[i][j]=0;
+                }
+            }
+        }
+    }
+};
