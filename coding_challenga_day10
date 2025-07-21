@@ -1,0 +1,34 @@
+##solution 1:
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        unordered_map<int,int>fre;
+        for(auto it:nums)
+        {
+            fre[it]++;
+        }
+        for(auto it:fre)
+        {
+            if(it.second==1)
+            {
+                return it.first;
+            }
+
+        }
+        return -1;
+        
+    }
+};
+
+#solution 2:
+
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+       int res=0;
+       for(int n:nums){
+        res=n^res;
+       }
+       return res;
+    }
+};
