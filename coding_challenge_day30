@@ -1,0 +1,24 @@
+class Solution {
+public:
+    bool isValidSudoku(vector<vector<char>>& board) {
+        vector<int> row(9,0);
+        vector<int> col(9,0);
+        vector<int> cell(9,0);
+        for(int i=0;i<9;i++){
+            for(int j=0;j<9;j++){
+                if(board[i][j]=='.')  continue;
+                int num=board[i][j]-'1';
+                int mask=1 << num;
+                int boxindex=(i/3)*3+(j/3);
+                if(row[i]&mask||col[j]&mask||cell[boxindex]&mask) return false;
+                row[i]|=mask;
+                col[j]|=mask;
+                cell[boxindex]|=mask;
+            }
+        }
+        return true;
+
+        
+        
+   }
+};
