@@ -1,0 +1,20 @@
+class Solution {
+  public:
+    int getSecondLargest(vector<int> &arr) {
+        // code here
+        int n=arr.size();
+        int maxi=-1;
+        int seclar=-1;
+        for(int i=0;i<n;i++){
+            if(arr[i]>maxi){
+                seclar=maxi;
+                maxi=arr[i];
+            }
+            else if(arr[i]>seclar&&arr[i]<maxi){
+                seclar=arr[i];
+            }
+        }
+        
+        return seclar;
+    }
+};
