@@ -1,0 +1,61 @@
+#Solution 1:
+class Solution {
+public:
+    bool ispalin(string res){
+        int n=res.size();
+        if(n==1) return true;
+        int left=0;
+        int right=n-1;
+        while(left<right){
+           
+            if(res[left]!=res[right]) return false;
+            right--;
+            left++;
+        }
+        return true;
+    }
+    int countSubstrings(string s) {
+        int n=s.size();
+        int count=0;
+        for(int i=0;i<n;i++){
+            string res="";
+            for(int j=i;j<n;j++){
+                res+=s[j];
+                
+                if(ispalin(res)){
+                    count++;
+                    
+                }
+            }
+        }
+        return count;
+    }
+};
+
+SOLUTION 2:
+class Solution {
+public:
+    int countSubstrings(string s) {
+        int n=s.size();
+        int count=0;
+        for(int i=0;i<n;i++){
+            int left=i;
+            int right=i;
+            while(left>=0&&right<=n-1&&s[left]==s[right]){
+                count++;
+                left--;
+                right++;
+            }
+            left=i;
+            right=i+1;
+            while(left>=0&&right<=n-1&&s[left]==s[right]){
+                count++;
+                left--;
+                right++;
+            }
+        }
+        return count;
+    }
+};
+
+
