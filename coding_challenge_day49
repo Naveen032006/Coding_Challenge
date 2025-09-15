@@ -1,0 +1,42 @@
+class Solution {
+public:
+    void bfs(vector<vector<char>>& grid,vector<vector<int>>& visit,int i,int j,int n,int m){
+        visit[i][j]=1;
+        queue<pair<int,int>> q;
+        q.push({i,j});
+        while(!q.empty()){
+            int trow=q.front().first;
+            int tcol=q.front().second;
+            q.pop();
+            int row[]={0,-1,0,1};
+            int col[]={-1,0,1,0};
+            for(int i=0;i<4;i++){
+                int drow=trow+row[i];
+                int dcol=tcol+col[i];
+                if(drow>=0&&drow<n&&dcol>=0&&dcol<m&&grid[drow][dcol]=='1'&&visit[drow][dcol]!=1){
+                    q.push({drow,dcol});
+                    visit[drow][dcol]=1;
+                }
+            }
+        }
+    }
+    int numIslands(vector<vector<char>>& grid) {
+        int n=grid.size();
+        int m=grid[0].size();
+        int count=0;
+        vector<vector<int>> visit(n,vector<int>(m,0));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]=='1'&&visit[i][j]!=1){
+                    bfs(grid,visit,i,j,n,m);
+                    count++;
+                }
+            }
+        }
+        return count;
+        
+
+        
+
+    }
+};
