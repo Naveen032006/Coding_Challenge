@@ -1,0 +1,31 @@
+RECURSIVE _SOLUTION:
+  class Solution {
+public:
+    int find(vector<int>& nums,int sum,int n,int target){
+        if(n==nums.size()) return sum==target?1:0;
+        cout<<nums[n];
+        int pos=find(nums,sum+nums[n],n+1,target);
+        int neg=find(nums,sum-nums[n],n+1,target);
+        return pos+neg;
+    }
+    int findTargetSumWays(vector<int>& nums, int target) {
+        return find(nums,0,0,target);
+    }
+};
+
+MEMOIZATION SOLTION:
+class Solution {
+public:
+    int find(vector<int>& nums,int sum,int n,int target,vector<vector<int>>& dp){
+        if(n==nums.size()) return sum==target?1:0;
+        if(dp[n][sum+1000]!=-1) return dp[n][sum+1000];
+        int pos=find(nums,sum+nums[n],n+1,target,dp);
+        int neg=find(nums,sum-nums[n],n+1,target,dp);
+        return dp[n][sum+1000]=pos+neg;
+    }
+    int findTargetSumWays(vector<int>& nums, int target) {
+        int n=nums.size();
+        vector<vector<int>> dp(n,vector<int>(3001+target,-1));
+        return find(nums,0,0,target,dp);
+    }
+};
