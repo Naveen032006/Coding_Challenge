@@ -1,0 +1,17 @@
+class Solution {
+public:
+    string convert(string s, int numRows) {
+        int n=s.size();
+        if(numRows==1||n==numRows) return s;
+        string res="";
+        for(int i=0;i<numRows;i++){
+            for(int j=i;j<n;j=j+2*(numRows-1)){
+                res+=s[j];
+                if(i>0&&i<numRows-1&&(j+2*(numRows-1)-2*i)<n){
+                    res+=s[(j+2*(numRows-1)-2*i)];
+                }
+            }
+        }
+        return res;
+    }
+};
