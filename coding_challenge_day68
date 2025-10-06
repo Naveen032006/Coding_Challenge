@@ -1,3 +1,4 @@
+# 1 .brute force solution
 class Solution {
 public:
     static bool cmp(pair<char,int>& a,pair<char,int>& b){
@@ -24,5 +25,29 @@ public:
         }
         return res;
 
+    }
+};
+
+#2.optimal solution:
+class Solution {
+public:
+    string customSortString(string order, string s) {
+        int n=s.size();
+        int m=order.size();
+        string res;
+        unordered_map<char,int> freq;
+        for(char c:s){
+            freq[c]++;
+        }
+        for(char c:order){
+            if(freq.find(c)!=freq.end()){
+                res.append(freq[c],c);
+                freq.erase(c);
+            }
+        }
+        for(auto &[ch,count]:freq){
+            res.append(count,ch);
+        }
+        return res;
     }
 };
