@@ -1,0 +1,29 @@
+class Solution {
+public:
+    vector<int> findAnagrams(string s, string p) {
+        int n=s.size();
+        int m=p.size();
+        unordered_map<char,int> mp1;
+        for(int i=0;i<m;i++){
+            mp1[p[i]]++;
+        }
+        int right=0;
+        int left=0;
+        vector<int> res;
+        unordered_map<char,int> mp2;
+        while(right<n){
+            mp2[s[right]]++;
+            
+            while(right-left+1>m){
+               
+                mp2[s[left]]--;
+                if(mp2[s[left]]==0) mp2.erase(s[left]);
+                left++;
+                
+            }
+            if(mp1==mp2) res.push_back(left);
+            right++;
+        }
+        return res;
+    }
+};
