@@ -1,0 +1,50 @@
+class Solution {
+public:
+    pair<int,int> parse(string eq){
+        int n=eq.size();
+        int const_sum=0;
+        int coeff=0;
+        int sign=1;
+        int i=0;
+        while(i<n){
+            if(eq[i]=='+'){
+                sign=1;
+                i++;
+            }
+            else if(eq[i]=='-'){
+                sign=-1;
+                i++;
+            }
+            int num=0;
+            bool isnumber=false;
+            while(i<n&&isdigit(eq[i])){
+                num=10*num+(eq[i]-'0');
+                isnumber=true;
+                i++;
+            }
+            if(i<n&&eq[i]=='x'){
+                if(!isnumber) num=1;
+                coeff+=num*sign;
+                i++;
+            }
+            else{
+                const_sum+=num*sign;
+            }
+        }
+        return {coeff,const_sum};
+    }
+    string solveEquation(string equation) {
+        int n=equation.size();
+        int pos=equation.find('=');
+        auto [lx,lc]=parse(equation.substr(0,pos));
+        auto [rx,rc]=parse(equation.substr(pos+1,n));
+        int x_coeff=lx-rx;
+        int const_coeff=rc-lc;
+        if(x_coeff==0){
+            if(const_coeff==0) return "Infinite solutions";
+            return "No solution"; 
+        }
+        int res=const_coeff/x_coeff;
+        return "x="+to_string(res);
+    }
+};
