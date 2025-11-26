@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int numdecode(int p,string s,vector<int>& nums){
+        int n=s.size();
+        if(nums[p]!=-1) return nums[p];
+        if(p==n) return 1;
+        if(s[p]=='0') return 0;
+        int res=numdecode(p+1,s,nums);
+        if(p<n-1&&((s[p]=='1')||(s[p]=='2'&&s[p+1]<'7'))) res+=numdecode(p+2,s,nums);
+        return nums[p]=res;
+    }
+    int numDecodings(string s) {
+        int n=s.size();
+        vector<int> nums(n+1,-1);
+        return s.size()==0?0:numdecode(0,s,nums);
+    }
+};
