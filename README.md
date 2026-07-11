@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/Naveen032006/Coding_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Naveen032006/Coding_Challenge/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Naveen032006/Coding_Challenge/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
