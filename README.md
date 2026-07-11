@@ -14,6 +14,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Naveen032006/Coding_Challenge/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Naveen032006/Coding_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -48,10 +49,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Naveen032006/Coding_Challenge/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Naveen032006/Coding_Challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Naveen032006/Coding_Challenge/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Naveen032006/Coding_Challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Hash Table
 |  |
 | ------- |
