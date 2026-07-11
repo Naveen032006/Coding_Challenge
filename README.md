@@ -26,4 +26,20 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
