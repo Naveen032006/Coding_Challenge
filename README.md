@@ -11,6 +11,7 @@
 | [0503-next-greater-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Naveen032006/Coding_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen032006/Coding_Challenge/tree/master/0907-sum-of-subarray-minimums) |
+| [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Naveen032006/Coding_Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
