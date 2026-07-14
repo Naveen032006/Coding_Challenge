@@ -37,10 +37,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen032006/Coding_Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen032006/Coding_Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -49,6 +51,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen032006/Coding_Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Naveen032006/Coding_Challenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Design
@@ -83,6 +86,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen032006/Coding_Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Quickselect
 |  |
 | ------- |
@@ -106,10 +110,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen032006/Coding_Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen032006/Coding_Challenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Naveen032006/Coding_Challenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Naveen032006/Coding_Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Naveen032006/Coding_Challenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
