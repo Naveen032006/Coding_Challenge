@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Naveen032006/Coding_Challenge/tree/master/0416-partition-equal-subset-sum) |
@@ -83,6 +84,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -119,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Naveen032006/Coding_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen032006/Coding_Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen032006/Coding_Challenge/tree/master/0907-sum-of-subarray-minimums) |
