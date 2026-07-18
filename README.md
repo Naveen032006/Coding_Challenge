@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Naveen032006/Coding_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen032006/Coding_Challenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -130,6 +131,7 @@
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -139,6 +141,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
