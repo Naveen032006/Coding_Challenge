@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Naveen032006/Coding_Challenge/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveen032006/Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Naveen032006/Coding_Challenge/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen032006/Coding_Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
