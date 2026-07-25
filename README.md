@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveen032006/Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Naveen032006/Coding_Challenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0403-frog-jump](https://github.com/Naveen032006/Coding_Challenge/tree/master/0403-frog-jump) |
@@ -61,6 +62,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -81,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Naveen032006/Coding_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
