@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Naveen032006/Coding_Challenge/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Naveen032006/Coding_Challenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -154,6 +155,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Naveen032006/Coding_Challenge/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
@@ -185,6 +187,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Naveen032006/Coding_Challenge/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Naveen032006/Coding_Challenge/tree/master/1260-shift-2d-grid) |
 ## String
