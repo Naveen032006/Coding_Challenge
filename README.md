@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Naveen032006/Coding_Challenge/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveen032006/Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Naveen032006/Coding_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -183,6 +185,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Naveen032006/Coding_Challenge/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
