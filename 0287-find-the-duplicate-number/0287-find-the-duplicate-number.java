@@ -1,3 +1,4 @@
+Optimal Solution:
 class Solution {
     public int findDuplicate(int[] nums) {
         int n=nums.length;
@@ -22,3 +23,20 @@ class Solution {
 
     }
 }
+time Complexity:O(nlogn);
+Space Complexity:O(1);
+
+Brute Force:
+    class Solution {
+    public int findDuplicate(int[] nums) {
+        int n=nums.length;
+        Set<Integer> set=new HashSet<>();
+        for(int i=0;i<n;i++){
+            if(set.contains(nums[i])) return nums[i];
+            set.add(nums[i]);
+        }
+        return -1;
+    }
+}
+time Complexity:O(n);
+Space Complexity:O(n);
