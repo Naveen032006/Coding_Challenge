@@ -4,8 +4,8 @@ class Solution {
         int buy=prices[0];
         int profit=0;
         for(int i=0;i<n;i++){
-            buy=Math.min(buy,prices[i]);
-            profit=Math.max(profit,prices[i]-buy);
+            buy=Math.min(prices[i],buy);
+            profit=Math.max(prices[i]-buy,profit);
         }
         return profit;
     }
