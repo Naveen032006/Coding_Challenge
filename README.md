@@ -23,6 +23,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Naveen032006/Coding_Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Naveen032006/Coding_Challenge/tree/master/0704-binary-search) |
 | [0907-sum-of-subarray-minimums](https://github.com/Naveen032006/Coding_Challenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1260-shift-2d-grid](https://github.com/Naveen032006/Coding_Challenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen032006/Coding_Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Naveen032006/Coding_Challenge/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
