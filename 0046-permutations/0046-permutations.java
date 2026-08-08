@@ -1,26 +1,27 @@
 class Solution {
-    public void backtrack(int[] nums,int[] used,List<List<Integer>> ans,List<Integer> curr){
-        if(nums.length==curr.size()){
-            ans.add(new ArrayList<>(curr));
-            return;
-        }
-        for(int i=0;i<nums.length;i++){
-            if(used[i]==1){
-                continue;
+    public void dopermutation(int[] nums,int index,List<List<Integer>> ans){
+        if(index==nums.length){
+            ArrayList<Integer> curr=new ArrayList<>();
+            for(int i=0;i<nums.length;i++){
+                curr.add(nums[i]);
             }
-            used[i]=1;
-            curr.add(nums[i]);
-            backtrack(nums,used,ans,curr);
-            curr.remove(curr.size()-1);
-            used[i]=0;
+            ans.add(curr);
         }
+        for(int i=index;i<nums.length;i++){
+            swap(nums,i,index);
+            dopermutation(nums,index+1,ans);
+            swap(nums,i,index);
+        }
+    }
+    public void swap(int[] nums,int i,int j){
+        int temp=nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
     }
     public List<List<Integer>> permute(int[] nums) {
         int n=nums.length;
-        int[] used=new int[n];
         List<List<Integer>> ans=new ArrayList<>();
-        List<Integer> curr=new ArrayList<>();
-        backtrack(nums,used,ans,curr);
+        dopermutation(nums,0,ans);
         return ans;
     }
 }
