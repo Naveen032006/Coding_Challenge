@@ -95,11 +95,13 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Naveen032006/Coding_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Naveen032006/Coding_Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Naveen032006/Coding_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0387-first-unique-character-in-a-string](https://github.com/Naveen032006/Coding_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Naveen032006/Coding_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -205,6 +207,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Naveen032006/Coding_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Memoization
 |  |
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Naveen032006/Coding_Challenge/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Naveen032006/Coding_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Naveen032006/Coding_Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Naveen032006/Coding_Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
