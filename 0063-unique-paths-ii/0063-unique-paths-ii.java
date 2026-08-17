@@ -15,9 +15,20 @@ class Solution {
         if(arr[0][0]==1) return 0;
         if(arr[n-1][m-1]==1) return 0;
         int[][] dp=new int[n][m];
-        for(int[] row:dp){
-            Arrays.fill(row,-1);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(i==0&&j==0&&arr[i][j]!=1){
+                    dp[i][j]=1;
+                    continue;
+                }
+                int top=0;
+                if(i>0&&arr[i][j]!=1) top=dp[i-1][j];
+                int left=0;
+                if(j>0&&arr[i][j]!=1) left=dp[i][j-1];
+
+                 dp[i][j]=left+top;
+            }
         }
-        return solve(arr,n-1,m-1,dp);
+        return dp[n-1][m-1];
     }
 }
