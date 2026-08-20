@@ -17,6 +17,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveen032006/Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Naveen032006/Coding_Challenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen032006/Coding_Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -163,6 +164,7 @@
 | [0063-unique-paths-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveen032006/Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Naveen032006/Coding_Challenge/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Naveen032006/Coding_Challenge/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Naveen032006/Coding_Challenge/tree/master/0416-partition-equal-subset-sum) |
