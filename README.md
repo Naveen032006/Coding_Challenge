@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Naveen032006/Coding_Challenge/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Naveen032006/Coding_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveen032006/Coding_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0152-maximum-product-subarray) |
@@ -55,6 +56,7 @@
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Naveen032006/Coding_Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Naveen032006/Coding_Challenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Naveen032006/Coding_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen032006/Coding_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen032006/Coding_Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Naveen032006/Coding_Challenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
