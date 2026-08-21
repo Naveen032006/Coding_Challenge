@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Naveen032006/Coding_Challenge/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Naveen032006/Coding_Challenge/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Naveen032006/Coding_Challenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0053-maximum-subarray) |
@@ -146,6 +147,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen032006/Coding_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Naveen032006/Coding_Challenge/tree/master/0704-binary-search) |
