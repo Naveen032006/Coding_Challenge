@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Naveen032006/Coding_Challenge/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Naveen032006/Coding_Challenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Naveen032006/Coding_Challenge/tree/master/0046-permutations) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveen032006/Coding_Challenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Naveen032006/Coding_Challenge/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Naveen032006/Coding_Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Naveen032006/Coding_Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0088-merge-sorted-array) |
@@ -127,6 +129,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Naveen032006/Coding_Challenge/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Naveen032006/Coding_Challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Naveen032006/Coding_Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0088-merge-sorted-array) |
