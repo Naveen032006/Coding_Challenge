@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/Naveen032006/Coding_Challenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Naveen032006/Coding_Challenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Naveen032006/Coding_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0403-frog-jump](https://github.com/Naveen032006/Coding_Challenge/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Naveen032006/Coding_Challenge/tree/master/0416-partition-equal-subset-sum) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen032006/Coding_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Naveen032006/Coding_Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +130,7 @@
 | [0075-sort-colors](https://github.com/Naveen032006/Coding_Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3169-count-days-without-meetings](https://github.com/Naveen032006/Coding_Challenge/tree/master/3169-count-days-without-meetings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -216,6 +219,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen032006/Coding_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Memoization
@@ -271,4 +275,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Naveen032006/Coding_Challenge/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
