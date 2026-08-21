@@ -34,6 +34,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Naveen032006/Coding_Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3169-count-days-without-meetings](https://github.com/Naveen032006/Coding_Challenge/tree/master/3169-count-days-without-meetings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naveen032006/Coding_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -128,6 +129,7 @@
 | [0088-merge-sorted-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Naveen032006/Coding_Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [3169-count-days-without-meetings](https://github.com/Naveen032006/Coding_Challenge/tree/master/3169-count-days-without-meetings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Naveen032006/Coding_Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
