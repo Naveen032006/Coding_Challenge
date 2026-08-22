@@ -166,12 +166,14 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Naveen032006/Coding_Challenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Naveen032006/Coding_Challenge/tree/master/0257-binary-tree-paths) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Naveen032006/Coding_Challenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Naveen032006/Coding_Challenge/tree/master/0257-binary-tree-paths) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Naveen032006/Coding_Challenge/tree/master/0229-majority-element-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
