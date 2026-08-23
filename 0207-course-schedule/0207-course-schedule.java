@@ -15,7 +15,6 @@ class Solution {
     public boolean canFinish(int n, int[][] pre) {
         int m =pre.length;
         ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
-        Stack<Integer> st=new Stack<>();
         ArrayList<Integer> ans=new ArrayList<>();
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
@@ -23,7 +22,7 @@ class Solution {
         int[] vis=new int[n];
         int[] path=new int[n];
         for(int i=0;i<m;i++){
-            adj.get(pre[i][0]).add(pre[i][1]);
+            adj.get(pre[i][1]).add(pre[i][0]);
         }
         for(int i=0;i<n;i++){
             if(vis[i]!=1){
