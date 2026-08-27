@@ -248,6 +248,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Naveen032006/Coding_Challenge/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Naveen032006/Coding_Challenge/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naveen032006/Coding_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Naveen032006/Coding_Challenge/tree/master/0516-longest-palindromic-subsequence) |
