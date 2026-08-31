@@ -77,6 +77,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Naveen032006/Coding_Challenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Naveen032006/Coding_Challenge/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Naveen032006/Coding_Challenge/tree/master/0257-binary-tree-paths) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naveen032006/Coding_Challenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/Naveen032006/Coding_Challenge/tree/master/2685-count-the-number-of-complete-components) |
@@ -170,6 +171,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Naveen032006/Coding_Challenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Naveen032006/Coding_Challenge/tree/master/0257-binary-tree-paths) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -178,6 +180,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Naveen032006/Coding_Challenge/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Naveen032006/Coding_Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Naveen032006/Coding_Challenge/tree/master/0257-binary-tree-paths) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
@@ -310,8 +313,10 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Naveen032006/Coding_Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
